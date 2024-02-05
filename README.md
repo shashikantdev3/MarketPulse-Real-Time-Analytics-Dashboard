@@ -1,4 +1,5 @@
 # MarketPulse: Real-Time Analytics Dashboard
+![MarketPulse Dashboard](./web/static/images/project_mindmap.webp)
 
 MarketPulse is a comprehensive real-time analytics dashboard designed to provide up-to-the-minute insights into market trends, stock prices, and financial data. By leveraging advanced web scraping techniques, asyncio for efficient data collection, and powerful data analysis with machine learning, MarketPulse offers users actionable insights to inform their investment strategies.
 
